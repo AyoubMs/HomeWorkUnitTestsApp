@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TxlBSPNFNz3cR2jad/63hvnH17913ZcBzhyoBmXiTP0zEse9rEz7/RJIO0FnXldR2/g1y3DIMI/PQWLgFpLzCQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ayoub\\source\\repos\\HomeworkUnitTestsApp\\HomeworkUnitTests\\HomeworkUnitTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BasicMathOpsUnitTests is not compatible with netstandard2.1 (.NETStandard,Version=v2.1). Project BasicMathOpsUnitTests supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "BasicMathOpsUnitTests",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}
